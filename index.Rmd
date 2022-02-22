@@ -13,8 +13,8 @@ links:
 output:
   postcards::trestles
 ---
- 
-I am Assistant Senior Instructional Professor in Computational Social Science & the College at the University of Chicago, and Associate Director of the [Masters in Computational Social Science](https://macss.uchicago.edu). I teach learners social scientific research design, computational modeling, data science, math/statistics, and data visualization.
+
+I am a data scientist and educator. I teach undergraduate and graduate courses in computational social science, programming in R, and research methods.
 
 ## Experience
 
