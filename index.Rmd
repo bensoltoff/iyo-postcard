@@ -1,0 +1,37 @@
+---
+title: "Benjamin Soltoff"
+image: "ben-soltoff.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/benjaminsoltoff/"
+  - label: Twitter
+    url: "https://twitter.com/soltoffbc"
+  - label: GitHub
+    url: "https://github.com/bensoltoff"
+  - label: Email
+    url: "mailto:soltoffbc@uchicago.edu"
+output:
+  postcards::trestles
+---
+ 
+I am Assistant Senior Instructional Professor in Computational Social Science & the College at the University of Chicago, and Associate Director of the [Masters in Computational Social Science](https://macss.uchicago.edu). I teach learners social scientific research design, computational modeling, data science, math/statistics, and data visualization.
+
+## Experience
+
+##### University of Chicago
+
+* Assistant Senior Instructional Professor of Computational Social Science & the College (2021-present)
+* Associate Director, [Masters in Computational Social Science](https://macss.uchicago.edu/) (2021-present)
+* Assistant Instructional Professor of Computational Social Science (2016-2021)
+* Assistant Director, [Masters in Computational Social Science](https://macss.uchicago.edu/) (2019-2021)
+
+##### Miami University
+
+* Visiting Assistant Professor, [Department of Political Science](http://miamioh.edu/cas/academics/departments/political-science/index.html) (2015-2016)
+
+## Education
+
+* PhD, Political Science, [The Pennsylvania State University](http://polisci.la.psu.edu/), 2015
+* MA, Political Science, [The Pennsylvania State University](http://polisci.la.psu.edu/), 2012
+* BA, Political Science, [James Madison University](http://www.jmu.edu/polisci/), 2010
+
